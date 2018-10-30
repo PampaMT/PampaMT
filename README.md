@@ -1,2 +1,2 @@
 # PampaMT
-software to pre-processing Magnetotelluric data
+Software to pre-processing Magnetotelluric data
